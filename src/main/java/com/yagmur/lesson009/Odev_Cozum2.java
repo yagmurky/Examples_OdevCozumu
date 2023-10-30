@@ -9,6 +9,8 @@ public class Odev_Cozum2 {
         int tahminHakki = 0;
         int[] tahminler = new int[5];
 
+        System.out.println("Merhaba ödev çözümüm aşağıdadır.");
+
         Scanner sc = new Scanner(System.in);
         do {
             System.out.println("Bir sayı tuttum, tahmin et:");
